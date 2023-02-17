@@ -8,7 +8,7 @@ It should be able to take a folder containing Markdown (or another non-HTML mark
 
 The project contains the following files and folders
 
-* public folder- conatains the generated website pages
+* public folder- contains the generated website pages
 * src folder- conatins the assets, pages  and the assets folder
 - pages folder- contains markdown files 
 - templates - contains template to be used to generate the files
