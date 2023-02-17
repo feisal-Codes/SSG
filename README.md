@@ -14,6 +14,10 @@ The project contains the following files and folders
 - templates - contains template to be used to generate the files
 * index.js file - this file contains the actual code and is the entry point of the project
 
+## Resources used for research 
+ * Google
+ * youtube vid: https://www.youtube.com/watch?v=NPgg3rpZ_RU
+
 ## libaries used
 
 * marked 
